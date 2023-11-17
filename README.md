@@ -4,7 +4,7 @@ Submitted by: **Bogdan Gevko**
 
 **iOS Basics** is an elementary iOS application for the CodePath iOS course. It's a beginner exercise to get familiar with using Xcode and Swift. Its primary function is to change the background color when the user taps a button on the screen.
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours
 
 ## Required Features
 
