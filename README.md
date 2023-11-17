@@ -1,5 +1,4 @@
 # Prework - *iOS Basics*
----
 
 Submitted by: **Bogdan Gevko**
 
@@ -8,7 +7,6 @@ Submitted by: **Bogdan Gevko**
 Time spent: **2** hours spent in total
 
 ## Required Features
----
 
 The following **required** functionality is completed:
 
@@ -16,12 +14,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
----
-
-[Guide](https://www.loom.com/share/33de31558ef94391862af9111de6aafe?sid=41263f2e-4895-4284-b2e2-99440d56ddd2)
+<div>
+	<a href="https://www.loom.com/share/33de31558ef94391862af9111de6aafe">
+		<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/33de31558ef94391862af9111de6aafe-with-play.gif">
+	</a>
+</div>
 
 ## App Brainstorming
----
 What makes a great mobile app? Although I don't yet have the developer experience to give a qualified answer, I can still draw insights from my experience, as I've been using a smartphone since 2007. In my 16 years of using mobile apps, the apps that I liked the most were the ones that let me forget that I was using a mobile device. The user interface of a great app just works. It enables the user to focus on the experience without drawing too much attention to itself. Here are three apps that I believe have an outstanding user experience: 
 
 ### Gmail
@@ -45,7 +44,7 @@ I wasn't sure how to properly switch the directory of my project (still wonderin
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Bogdan Gevko
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
